@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-[#b3d0de];
+  padding:0px 10% ;
+}
+
+.restButton{
+  margin: auto;
+  padding: 16px !important;
+  background: #000 !important;
+  border-radius: 10px !important;
+  color: white;
+  font-weight: bold !important;
+}
